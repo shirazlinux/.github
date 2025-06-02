@@ -1,0 +1,48 @@
+# copyleft-next 0.3.1
+
+## 📜 ShirazLinux License - Localized Version
+
+### 1. License Grants
+Subject to this License, you receive:
+- Rights to copy, distribute, create derivatives, and publicly display works
+- Royalty-free patent rights for covered inventions
+
+⚠️ Does not include trademark rights.
+
+### 2. Distribution Terms
+You may distribute works provided you:
+- Include license reference and access instructions
+- Preserve all legal notices
+- Comply with sections 3-6
+
+### 3. Derived Works
+Any derivative work must be:
+- Licensed under this same license, OR
+- Licensed under GPL (if combining with GPL code)
+
+### 4. No Additional Restrictions
+You may not impose further restrictions on users' rights.
+
+### 5. Object Code Distribution
+When distributing executables you must:
+- Provide a URL to access source code
+- Keep source available for minimum 2 years
+
+### 6. Contributor Patches
+Contributions without explicit licensing default to this license.
+
+### 7. Copyleft Sunset
+Copyleft conditions expire 15 years after first distribution.
+
+### 8. License Versions
+You may use any later version of copyleft-next.
+
+## ⚠️ Liability Limitations
+This work comes with NO WARRANTY. Authors and distributors are not liable for any damages.
+
+## 📌 Key Definitions
+| Term | Definition |
+|------|-----------|
+| Covered Work | The original licensed project |
+| Derived Work | Any work based on the original code |
+| Source Code | Preferred form for making modifications |
