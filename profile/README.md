@@ -31,7 +31,7 @@
 [متن کامل درباره ما](https://sudoshz.ir/about/)
 
 ## 🚀 چگونه مشارکت کنیم؟
-# برای توسعه‌دهندگان
+
 ```bash
 $ git clone https://github.com/ShirazLinux/projects
 $ cd projects
